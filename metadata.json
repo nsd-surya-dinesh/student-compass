@@ -1,0 +1,7 @@
+{
+  "name": "Lumina: AI-Powered Learning Mentor",
+  "description": "A comprehensive student guidance platform providing personalized learning paths, intelligent planning, and a dedicated AI mentor to combat decision fatigue and boost growth.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
